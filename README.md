@@ -325,7 +325,6 @@ You can customize the displayed data using the following attributes:
 
 If you encounter issues or have questions, please contact the plugin author:
 
-- **Email**: [elias.haisch@example.com](mailto:elias.haisch@example.com)
 - **GitHub**: [https://github.com/eliashaisch/solarpower-data](https://github.com/eliashaisch/solarpower-data)
 
 Please provide detailed information about your issue, including any error messages and steps to reproduce the problem.
@@ -380,6 +379,7 @@ This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses
 
 - **Chart.js**: [https://www.chartjs.org/](https://www.chartjs.org/)
 - **WordPress Plugin Handbook**: [https://developer.wordpress.org/plugins/](https://developer.wordpress.org/plugins/)
+- **chatgpt** : [https://chatgpt.com](https://chatgpt.com)
 
 ---
 
